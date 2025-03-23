@@ -16,6 +16,26 @@ With this data, our AI can tell if your **cornfield** will thrive 🌽 or just..
 
 ---
 
+## 🛠️ Tech Stack  
+This project is built using:  
+
+### 📊 **Data Handling & Processing:**  
+- `pandas` – For loading and preprocessing data  
+- `numpy` – For numerical computations  
+
+### 📈 **Machine Learning & Model Building:**  
+- `scikit-learn` – For Linear Regression and model evaluation  
+
+### 📊 **Visualization & Analysis:**  
+- `matplotlib` – For plotting data trends  
+- `seaborn` – For beautiful statistical graphs  
+
+### 🛠 **Environment & Dependencies:**  
+- `Python 3.x` – The core language  
+- `Jupyter Notebook` *(optional)* – If you prefer interactive development  
+
+---
+
 ## 🚀 How It Works  
 ### 1️⃣ Data Cleaning & Preprocessing 📊  
 - We merge **rainfall, pesticides, temperature, and yield data** into one dataset.  
